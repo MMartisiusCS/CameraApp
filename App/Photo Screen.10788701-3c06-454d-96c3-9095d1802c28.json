@@ -1,4 +1,5 @@
 {
+    "id": "10788701-3c06-454d-96c3-9095d1802c28",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -274,7 +275,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "Switch to Video",
+                "Text": "Switch to Video!",
                 "TextColor": "#FFFFFF",
                 "FontSize": 12,
                 "Font": "",
@@ -653,7 +654,6 @@
             "name": "Image1"
         }
     ],
-    "id": "10788701-3c06-454d-96c3-9095d1802c28",
     "thunkableVersion": 443,
     "name": "Photo Screen"
 }
